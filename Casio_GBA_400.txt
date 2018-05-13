@@ -1,0 +1,2325 @@
+HCI sniffer - Bluetooth packet analyzer ver 5.37
+btsnoop version: 1 datalink type: 1002
+< HCI Command: Write Voice Setting (0x03|0x0026) plen 2
+    voice setting 0x0060
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Voice Setting (0x03|0x0026) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x1112 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x1112 0x111f 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x110c 0x1112 0x111f 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: Write Class of Device (0x03|0x0024) plen 3
+    class 0x5a020c
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Class of Device (0x03|0x0024) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x110a 0x110c 0x1112 0x111f 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x110a 0x110c 0x110e 0x1112 0x111f 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: Write Current IAC LAP (0x03|0x003a) plen 4
+    IAC 0x9e8b33 (General Inquiry Access Code)
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Current IAC LAP (0x03|0x003a) ncmd 1
+    status 0x00
+< HCI Command: Write Scan Enable (0x03|0x001a) plen 1
+    enable 1
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Scan Enable (0x03|0x001a) ncmd 1
+    status 0x00
+< HCI Command: Write Scan Enable (0x03|0x001a) plen 1
+    enable 3
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Scan Enable (0x03|0x001a) ncmd 1
+    status 0x00
+< HCI Command: Write Scan Enable (0x03|0x001a) plen 1
+    enable 2
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Scan Enable (0x03|0x001a) ncmd 1
+    status 0x00
+< HCI Command: Write Scan Enable (0x03|0x001a) plen 1
+    enable 0
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Scan Enable (0x03|0x001a) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x110a 0x110c 0x110e 0x1112 0x1116 0x111f 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x110a 0x110c 0x110e 0x1112 0x1115 0x1116 0x111f 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x110a 0x110c 0x110e 0x1112 0x1115 0x1116 0x111f 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x110a 0x110c 0x110e 0x1112 0x1115 0x1116 0x111f 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x110a 0x110c 0x110e 0x1112 0x1115 0x1116 0x111f 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: Write Scan Enable (0x03|0x001a) plen 1
+    enable 0
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Scan Enable (0x03|0x001a) ncmd 1
+    status 0x00
+< HCI Command: Write Scan Enable (0x03|0x001a) plen 1
+    enable 2
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Scan Enable (0x03|0x001a) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x110a 0x110c 0x110e 0x1112 0x1115 0x1116 0x111f 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x110a 0x110c 0x110e 0x1112 0x1115 0x1116 0x111f 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: Write Extended Inquiry Response (0x03|0x0052) plen 241
+    fec 0x01
+    Complete local name: 'MotoG3-TE'
+    Complete service classes: 0x1105 0x110a 0x110c 0x110e 0x1112 0x1115 0x1116 0x111f 0x112f 0x1200 0x1132
+    Unknown type 0x05 with 0 bytes data
+    Unknown type 0x07 with 0 bytes data
+> HCI Event: Command Complete (0x0e) plen 4
+    Write Extended Inquiry Response (0x03|0x0052) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x00 (scanning disabled)
+    filter duplicates 0x01 (enabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 5000.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: Vendor (0x3f|0x0157) plen 3
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 2
+> HCI Event: Command Complete (0x0e) plen 6
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 7
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 16
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 5000.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x01 (scanning enabled)
+    filter duplicates 0x00 (disabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x00 (scanning disabled)
+    filter duplicates 0x01 (enabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 5000.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 500.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x01 (scanning enabled)
+    filter duplicates 0x00 (disabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+< HCI Command: Vendor (0x3f|0x0157) plen 2
+> HCI Event: Command Complete (0x0e) plen 6
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 13
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 16
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 7
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 16
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 11
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 16
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 11
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 16
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 7
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 16
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 7
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 16
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x00 (scanning disabled)
+    filter duplicates 0x01 (enabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 500.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 5000.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x01 (scanning enabled)
+    filter duplicates 0x00 (disabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+< HCI Command: Vendor (0x3f|0x0157) plen 3
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 3
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 3
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 3
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 3
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 3
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x00 (scanning disabled)
+    filter duplicates 0x01 (enabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 5000.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 500.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x01 (scanning enabled)
+    filter duplicates 0x00 (disabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+< HCI Command: Vendor (0x3f|0x0157) plen 2
+> HCI Event: Command Complete (0x0e) plen 6
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: Vendor (0x3f|0x0157) plen 16
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x00 (scanning disabled)
+    filter duplicates 0x01 (enabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 500.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 5000.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x01 (scanning enabled)
+    filter duplicates 0x00 (disabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+> HCI Event: LE Meta Event (0x3e) plen 40
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr E9:D7:CA:11:68:8D (Random)
+      Complete local name: 'GetActiveKlikAc'
+      Unknown type 0x19 with 2 bytes data
+      Flags: 0x06
+      Complete service classes: 0x0af0
+      RSSI: -100
+> HCI Event: LE Meta Event (0x3e) plen 25
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr E9:D7:CA:11:68:8D (Random)
+      Unknown type 0xff with 11 bytes data
+      RSSI: -101
+> HCI Event: LE Meta Event (0x3e) plen 39
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr FE:69:CA:E4:B0:47 (Random)
+      Flags: 0x06
+      Complete service classes: 0x1803 0x1802
+      Complete local name: 'CASIO GBA-400'
+      TX power level: 0
+      RSSI: -45
+> HCI Event: LE Meta Event (0x3e) plen 12
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr FE:69:CA:E4:B0:47 (Random)
+      RSSI: -44
+< HCI Command: Vendor (0x3f|0x0157) plen 3
+> HCI Event: Command Complete (0x0e) plen 7
+    Vendor (0x3f|0x0157) ncmd 1
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x00 (scanning disabled)
+    filter duplicates 0x01 (enabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 5000.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 500.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x01 (scanning enabled)
+    filter duplicates 0x00 (disabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+< HCI Command: LE Create Connection (0x08|0x000d) plen 25
+    bdaddr FE:69:CA:E4:B0:47 type 1
+    interval 96 window 48 initiator_filter 0
+    own_bdaddr_type 1 min_interval 24 max_interval 40
+    latency 0 supervision_to 2000 min_ce 0 max_ce 0
+> HCI Event: Command Status (0x0f) plen 4
+    LE Create Connection (0x08|0x000d) status 0x00 ncmd 1
+> HCI Event: LE Meta Event (0x3e) plen 19
+    LE Connection Complete
+      status 0x00 handle 5, role master
+      bdaddr FE:69:CA:E4:B0:47 (Random)
+< HCI Command: LE Read Remote Used Features (0x08|0x0016) plen 2
+> HCI Event: Command Status (0x0f) plen 4
+    LE Read Remote Used Features (0x08|0x0016) status 0x00 ncmd 1
+> HCI Event: LE Meta Event (0x3e) plen 12
+    LE Read Remote Used Features Complete
+      status 0x00 handle 5
+      Features: 0x01 0x00 0x00 0x00 0x00 0x00 0x00 0x00
+< HCI Command: Read Remote Version Information (0x01|0x001d) plen 2
+    handle 5
+> HCI Event: Command Status (0x0f) plen 4
+    Read Remote Version Information (0x01|0x001d) status 0x00 ncmd 1
+> HCI Event: Read Remote Ver Info Complete (0x0c) plen 8
+    status 0x00 handle 5
+    LMP Version: 4.0 (0x6) LMP Subversion: 0x1402
+    Manufacturer: MindTree Ltd. (106)
+< HCI Command: Read Remote Supported Features (0x01|0x001b) plen 2
+    handle 5
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x0001, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Command Status (0x0f) plen 4
+    Read Remote Supported Features (0x01|0x001b) status 0x0c ncmd 1
+    Error: Command Disallowed
+< HCI Command: LE Connection Update (0x08|0x0013) plen 14
+> HCI Event: Command Status (0x0f) plen 4
+    LE Connection Update (0x08|0x0013) status 0x00 ncmd 1
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 24
+    ATT: Read By Group resp (0x11)
+      attr handle 0x0001, end group handle 0x0001
+      value 0x01 0x18
+      attr handle 0x0002, end group handle 0x0006
+      value 0x00 0x18
+      attr handle 0x0007, end group handle 0x0009
+      value 0x03 0x18
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x000a, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> HCI Event: LE Meta Event (0x3e) plen 10
+    LE Connection Update Complete
+      status 0x00 handle 5
+      interval 7.50ms, latency 0.00ms, superv. timeout 20000.00ms
+> ACL data: handle 5 flags 0x02 dlen 18
+    ATT: Read By Group resp (0x11)
+      attr handle 0x000a, end group handle 0x000c
+      value 0x02 0x18
+      attr handle 0x000d, end group handle 0x000f
+      value 0x04 0x18
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x0010, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 26
+    ATT: Read By Group resp (0x11)
+      attr handle 0x0023, end group handle 0x0027
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x02 0x00 0xeb 0x26
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x0028, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 26
+    ATT: Read By Group resp (0x11)
+      attr handle 0x0028, end group handle 0x002b
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x05 0x00 0xeb 0x26
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x002c, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 26
+    ATT: Read By Group resp (0x11)
+      attr handle 0x002c, end group handle 0x0034
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x07 0x00 0xeb 0x26
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x0035, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 26
+    ATT: Read By Group resp (0x11)
+      attr handle 0x0035, end group handle 0x0039
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x1a 0x00 0xeb 0x26
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x003a, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 26
+    ATT: Read By Group resp (0x11)
+      attr handle 0x003a, end group handle 0x0064
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x0d 0x00 0xeb 0x26
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x0065, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Group req (0x10) on handle 0x0065
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0001, end 0x0001
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0001
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0001, end 0x0001
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0001
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0002, end 0x0006
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0002
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0002, end 0x0006
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 20
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x0003, value 0x02 0x04 0x00 0x00 0x2a 
+        handle 0x0005, value 0x02 0x06 0x00 0x01 0x2a 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0006, end 0x0006
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0006
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0007, end 0x0009
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0007
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0007, end 0x0009
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 13
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x0008, value 0x0a 0x09 0x00 0x06 0x2a 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0009, end 0x0009
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0009
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x000a, end 0x000c
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x000a
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x000a, end 0x000c
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 13
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x000b, value 0x04 0x0c 0x00 0x06 0x2a 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x000c, end 0x000c
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x000c
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x000d, end 0x000f
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x000d
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x000d, end 0x000f
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 13
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x000e, value 0x02 0x0f 0x00 0x07 0x2a 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x000f, end 0x000f
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x000f
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0023, end 0x0027
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0023
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0023, end 0x0027
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 20
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x0024, value 0x0c 0x25 0x00 0x2b 0x2a 
+        handle 0x0026, value 0x08 0x27 0x00 0x0f 0x2a 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0027, end 0x0027
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0027
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0028, end 0x002b
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0028
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0028, end 0x002b
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 13
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x0029, value 0x10 0x2a 0x00 0x06 0x2a 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x002a, end 0x002b
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x002a
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x002b, end 0x002b
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x002b, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x002c, end 0x0034
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x002c
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x002c, end 0x0034
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x002d, value 0x08 0x2e 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x08 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x002e, end 0x0034
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x002f, value 0x10 0x30 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x09 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0030, end 0x0034
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0032, value 0x10 0x33 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x0a 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0033, end 0x0034
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0033
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0031, end 0x0031
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0031, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0034, end 0x0034
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0034, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0035, end 0x0039
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0035
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0035, end 0x0039
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0036, value 0x0c 0x37 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x1b 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0037, end 0x0039
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0038, value 0x0c 0x39 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x1c 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0039, end 0x0039
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0039
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x003a, end 0x0064
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x003a
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x003a, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x003b, value 0x02 0x3c 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x0e 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x003c, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x003d, value 0x2a 0x3e 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x0f 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x003e, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0040, value 0x02 0x41 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x10 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0041, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0042, value 0x2a 0x43 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x11 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0043, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0045, value 0x02 0x46 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x12 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0046, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0047, value 0x2a 0x48 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x13 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0048, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x004a, value 0x02 0x4b 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x14 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x004b, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x004c, value 0x2a 0x4d 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x15 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x004d, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x004f, value 0x02 0x50 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x16 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0050, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0051, value 0x2a 0x52 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x17 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0052, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0054, value 0x2a 0x55 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x1e 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0055, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0057, value 0x2a 0x58 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x20 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0058, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x005a, value 0x02 0x5b 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x21 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x005b, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x005c, value 0x2a 0x5d 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x22 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x005d, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x005f, value 0x22 0x60 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x23 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0060, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0062, value 0x10 0x63 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x24 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0063, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0063
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x003f, end 0x003f
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x003f, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0044, end 0x0044
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0044, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0049, end 0x0049
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0049, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x004e, end 0x004e
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x004e, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0053, end 0x0053
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0053, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0056, end 0x0056
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0056, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0059, end 0x0059
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0059, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x005e, end 0x005e
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x005e, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0061, end 0x0061
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0061, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0064, end 0x0064
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0064, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< HCI Command: LE Connection Update (0x08|0x0013) plen 14
+> HCI Event: Command Status (0x0f) plen 4
+    LE Connection Update (0x08|0x0013) status 0x00 ncmd 1
+> HCI Event: LE Meta Event (0x3e) plen 10
+    LE Connection Update Complete
+      status 0x00 handle 5
+      interval 48.75ms, latency 0.00ms, superv. timeout 20000.00ms
+< ACL data: handle 5 flags 0x00 dlen 7
+    ATT: Read req (0x0a)
+      handle 0x003e
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 25
+    ATT: Read resp (0x0b)
+< ACL data: handle 5 flags 0x00 dlen 27
+    ATT: Write req (0x12)
+      handle 0x003e value  0x00 0x00 0x00 0x00 0x01 0xf0 0x00 0x04 0x00 0x01 0x0d 0x00 0x00 0x00 0x00 0x00 0x00 0x05 0x00 0x3c
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+< HCI Command: Delete Stored Link Key (0x03|0x0012) plen 7
+    bdaddr FE:69:CA:E4:B0:47 all 0
+< ACL data: handle 5 flags 0x00 dlen 11
+    SMP: Pairing Request (0x01)
+      capability 0x04 oob 0x00 auth req 0x05
+      max key size 0x10 init key dist 0x07 resp key dist 0x07
+      Capability: KeyboardDisplay (OOB data not present)
+      Authentication: Bonding (MITM Protection)
+      Initiator Key Distribution:  LTK IRK CSRK
+      Responder Key Distribution:  LTK IRK CSRK
+> HCI Event: Command Complete (0x0e) plen 6
+    Delete Stored Link Key (0x03|0x0012) ncmd 1
+    status 0x00 deleted 0
+< HCI Command: LE Connection Update (0x08|0x0013) plen 14
+> HCI Event: Command Status (0x0f) plen 4
+    LE Connection Update (0x08|0x0013) status 0x00 ncmd 1
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 11
+    SMP: Pairing Response (0x02)
+      capability 0x03 oob 0x00 auth req 0x01
+      max key size 0x10 init key dist 0x03 resp key dist 0x03
+      Capability: NoInputNoOutput (OOB data not present)
+      Authentication: Bonding (No MITM Protection)
+      Initiator Key Distribution:  LTK IRK 
+      Responder Key Distribution:  LTK IRK 
+< HCI Command: LE Rand (0x08|0x0018) plen 0
+> HCI Event: Command Complete (0x0e) plen 12
+    LE Rand (0x08|0x0018) ncmd 1
+< HCI Command: LE Rand (0x08|0x0018) plen 0
+> HCI Event: Command Complete (0x0e) plen 12
+    LE Rand (0x08|0x0018) ncmd 1
+< ACL data: handle 5 flags 0x00 dlen 21
+    SMP: Pairing Confirm (0x03)
+      key e6bcf73fb38ec746449aa8ac47c2d155
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 21
+    SMP: Pairing Confirm (0x03)
+      key 8711118187a56f353ee1f7f3339e303e
+< ACL data: handle 5 flags 0x00 dlen 21
+    SMP: Pairing Random (0x04)
+      random 9583dbb3fbd53485a0712a86439f7c60
+> HCI Event: LE Meta Event (0x3e) plen 10
+    LE Connection Update Complete
+      status 0x00 handle 5
+      interval 7.50ms, latency 0.00ms, superv. timeout 20000.00ms
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 21
+    SMP: Pairing Random (0x04)
+      random 6e9b3dd693c1e6bf0000000000000000
+< HCI Command: LE Start Encryption (0x08|0x0019) plen 28
+> HCI Event: Command Status (0x0f) plen 4
+    LE Start Encryption (0x08|0x0019) status 0x00 ncmd 1
+> HCI Event: Encrypt Change (0x08) plen 4
+    status 0x00 handle 5 encrypt 0x01
+> ACL data: handle 5 flags 0x02 dlen 21
+    SMP: Encryption Information (0x06)
+      LTK d9e908f824e06791d20aa2750d75e3a1
+> ACL data: handle 5 flags 0x02 dlen 15
+    SMP: Master Identification (0x07)
+      EDIV 0xfaac Rand 0xee0fc3742b71fd20
+> ACL data: handle 5 flags 0x02 dlen 21
+    SMP: Identity Information (0x08)
+      IRK 57cde7a75baa3edcb1bed231f222e027
+> ACL data: handle 5 flags 0x02 dlen 12
+    SMP: Identity Address Information (0x09)
+      bdaddr 7F:FF:B9:18:82:40 (Random)
+< HCI Command: LE Rand (0x08|0x0018) plen 0
+> HCI Event: Command Complete (0x0e) plen 12
+    LE Rand (0x08|0x0018) ncmd 1
+< HCI Command: LE Rand (0x08|0x0018) plen 0
+> HCI Event: Command Complete (0x0e) plen 12
+    LE Rand (0x08|0x0018) ncmd 1
+< ACL data: handle 5 flags 0x00 dlen 21
+    SMP: Encryption Information (0x06)
+      LTK fb28323d05bddf02c64a7405882b8dd7
+< ACL data: handle 5 flags 0x00 dlen 15
+    SMP: Master Identification (0x07)
+      EDIV 0x341d Rand 0xd6f4a1dc36109615
+< ACL data: handle 5 flags 0x00 dlen 21
+    SMP: Identity Information (0x08)
+      IRK 9a28eb481fdb569dd1896327161ab1ea
+< ACL data: handle 5 flags 0x00 dlen 12
+    SMP: Identity Address Information (0x09)
+      bdaddr 7F:FF:B9:18:82:40 (Public)
+< HCI Command: LE Connection Update (0x08|0x0013) plen 14
+< ACL data: handle 5 flags 0x00 dlen 13
+    ATT: Find By Type req (0x06)
+      start 0x0001, end 0xffff, uuid 0x2800
+      value 0x01 0x18
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> HCI Event: Command Status (0x0f) plen 4
+    LE Connection Update (0x08|0x0013) status 0x00 ncmd 1
+< HCI Command: Vendor (0x3f|0x0155) plen 24
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> HCI Event: Command Complete (0x0e) plen 6
+    Vendor (0x3f|0x0155) ncmd 1
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x00 (scanning disabled)
+    filter duplicates 0x01 (enabled)
+> HCI Event: Command Complete (0x0e) plen 4
+    Unknown (0x00|0x0000) ncmd 1
+< HCI Command: LE Set Scan Parameters (0x08|0x000b) plen 7
+    type 0x01 (active)
+    interval 5000.000ms window 500.000ms
+    own address: 0x01 (Random) policy: All
+> HCI Event: LE Meta Event (0x3e) plen 10
+    LE Connection Update Complete
+      status 0x00 handle 5
+      interval 48.75ms, latency 0.00ms, superv. timeout 20000.00ms
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+< HCI Command: Vendor (0x3f|0x0155) plen 2
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Parameters (0x08|0x000b) ncmd 1
+    status 0x00
+< HCI Command: LE Set Scan Enable (0x08|0x000c) plen 2
+    value 0x01 (scanning enabled)
+    filter duplicates 0x00 (disabled)
+> HCI Event: Command Complete (0x0e) plen 5
+    Vendor (0x3f|0x0155) ncmd 1
+< HCI Command: LE Connection Update (0x08|0x0013) plen 14
+> HCI Event: Command Complete (0x0e) plen 4
+    Unknown (0x00|0x0000) ncmd 1
+> HCI Event: Command Complete (0x0e) plen 4
+    LE Set Scan Enable (0x08|0x000c) ncmd 1
+    status 0x00
+> HCI Event: Command Status (0x0f) plen 4
+    LE Connection Update (0x08|0x0013) status 0x00 ncmd 1
+> HCI Event: LE Meta Event (0x3e) plen 10
+    LE Connection Update Complete
+      status 0x00 handle 5
+      interval 7.50ms, latency 0.00ms, superv. timeout 20000.00ms
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Find By Type resp (0x07)
+      Found attr 0x0001, group end handle 0x0001
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x0001, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 24
+    ATT: Read By Group resp (0x11)
+      attr handle 0x0001, end group handle 0x0001
+      value 0x01 0x18
+      attr handle 0x0002, end group handle 0x0006
+      value 0x00 0x18
+      attr handle 0x0007, end group handle 0x0009
+      value 0x03 0x18
+< ACL data: handle 5 flags 0x00 dlen 13
+    ATT: Find By Type req (0x06)
+      start 0x0002, end 0xffff, uuid 0x2800
+      value 0x01 0x18
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Find By Type req (0x06) on handle 0x0002
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x000a, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 18
+    ATT: Read By Group resp (0x11)
+      attr handle 0x000a, end group handle 0x000c
+      value 0x02 0x18
+      attr handle 0x000d, end group handle 0x000f
+      value 0x04 0x18
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0001, end 0x0001
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0001
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x0010, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 26
+    ATT: Read By Group resp (0x11)
+      attr handle 0x0023, end group handle 0x0027
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x02 0x00 0xeb 0x26
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x0028, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 26
+    ATT: Read By Group resp (0x11)
+      attr handle 0x0028, end group handle 0x002b
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x05 0x00 0xeb 0x26
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x002c, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 26
+    ATT: Read By Group resp (0x11)
+      attr handle 0x002c, end group handle 0x0034
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x07 0x00 0xeb 0x26
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x0035, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 26
+    ATT: Read By Group resp (0x11)
+      attr handle 0x0035, end group handle 0x0039
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x1a 0x00 0xeb 0x26
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x003a, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 26
+    ATT: Read By Group resp (0x11)
+      attr handle 0x003a, end group handle 0x0064
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x0d 0x00 0xeb 0x26
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Group req (0x10)
+      start 0x0065, end 0xffff
+      type-uuid 0x2800
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Group req (0x10) on handle 0x0065
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0001, end 0x0001
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0001
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0001, end 0x0001
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0001
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0002, end 0x0006
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0002
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0002, end 0x0006
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 20
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x0003, value 0x02 0x04 0x00 0x00 0x2a 
+        handle 0x0005, value 0x02 0x06 0x00 0x01 0x2a 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0006, end 0x0006
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0006
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0007, end 0x0009
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0007
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0007, end 0x0009
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 13
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x0008, value 0x0a 0x09 0x00 0x06 0x2a 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0009, end 0x0009
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0009
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x000a, end 0x000c
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x000a
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x000a, end 0x000c
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 13
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x000b, value 0x04 0x0c 0x00 0x06 0x2a 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x000c, end 0x000c
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x000c
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x000d, end 0x000f
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x000d
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x000d, end 0x000f
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 13
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x000e, value 0x02 0x0f 0x00 0x07 0x2a 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x000f, end 0x000f
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x000f
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0023, end 0x0027
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0023
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0023, end 0x0027
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 20
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x0024, value 0x0c 0x25 0x00 0x2b 0x2a 
+        handle 0x0026, value 0x08 0x27 0x00 0x0f 0x2a 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0027, end 0x0027
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0027
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0028, end 0x002b
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0028
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0028, end 0x002b
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 13
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x0029, value 0x10 0x2a 0x00 0x06 0x2a 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x002a, end 0x002b
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x002a
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x002b, end 0x002b
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x002b, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x002c, end 0x0034
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x002c
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x002c, end 0x0034
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x002d, value 0x08 0x2e 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x08 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x002e, end 0x0034
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x002f, value 0x10 0x30 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x09 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0030, end 0x0034
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0032, value 0x10 0x33 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x0a 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0033, end 0x0034
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0033
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0031, end 0x0031
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0031, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0034, end 0x0034
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0034, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0035, end 0x0039
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0035
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0035, end 0x0039
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0036, value 0x0c 0x37 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x1b 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0037, end 0x0039
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0038, value 0x0c 0x39 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x1c 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0039, end 0x0039
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0039
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x003a, end 0x0064
+      type-uuid 0x2802
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x003a
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x003a, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x003b, value 0x02 0x3c 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x0e 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x003c, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x003d, value 0x2a 0x3e 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x0f 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x003e, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0040, value 0x02 0x41 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x10 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0041, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0042, value 0x2a 0x43 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x11 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0043, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0045, value 0x02 0x46 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x12 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0046, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0047, value 0x2a 0x48 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x13 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0048, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x004a, value 0x02 0x4b 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x14 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x004b, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x004c, value 0x2a 0x4d 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x15 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x004d, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x004f, value 0x02 0x50 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x16 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0050, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0051, value 0x2a 0x52 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x17 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0052, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0054, value 0x2a 0x55 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x1e 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0055, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0057, value 0x2a 0x58 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x20 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0058, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x005a, value 0x02 0x5b 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x21 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x005b, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x005c, value 0x2a 0x5d 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x22 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x005d, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x005f, value 0x22 0x60 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x23 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0060, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0062, value 0x10 0x63 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x24 0x00 0xeb 0x26 
+< ACL data: handle 5 flags 0x00 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0063, end 0x0064
+      type-uuid 0x2803
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Read By Type req (0x08) on handle 0x0063
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x003f, end 0x003f
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x003f, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0044, end 0x0044
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0044, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0049, end 0x0049
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0049, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x004e, end 0x004e
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x004e, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0053, end 0x0053
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0053, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0056, end 0x0056
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0056, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0059, end 0x0059
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0059, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x005e, end 0x005e
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x005e, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0061, end 0x0061
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0061, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find Information req (0x04)
+      start 0x0064, end 0x0064
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Find Information resp (0x05)
+      format: uuid-16
+        handle 0x0064, uuid 0x2902 (GATT(desc) Client Characteristic Configuration)
+< HCI Command: LE Connection Update (0x08|0x0013) plen 14
+> HCI Event: Command Status (0x0f) plen 4
+    LE Connection Update (0x08|0x0013) status 0x00 ncmd 1
+> HCI Event: LE Meta Event (0x3e) plen 10
+    LE Connection Update Complete
+      status 0x00 handle 5
+      interval 48.75ms, latency 0.00ms, superv. timeout 20000.00ms
+< ACL data: handle 5 flags 0x00 dlen 8
+    ATT: Write req (0x12)
+      handle 0x0009 value  0x00
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+< ACL data: handle 5 flags 0x00 dlen 7
+    ATT: Read req (0x0a)
+      handle 0x0052
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 22
+    ATT: Read resp (0x0b)
+< ACL data: handle 5 flags 0x00 dlen 12
+    ATT: Write req (0x12)
+      handle 0x0055 value  0x2d 0x2d 0x2d 0x2d 0x2d
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+> ACL data: handle 5 flags 0x02 dlen 16
+    L2CAP(d): cid 0x0005 len 12 [psm 0]
+< ACL data: handle 5 flags 0x00 dlen 10
+    L2CAP(d): cid 0x0005 len 6 [psm 0]
+< HCI Command: LE Connection Update (0x08|0x0013) plen 14
+> HCI Event: Command Status (0x0f) plen 4
+    LE Connection Update (0x08|0x0013) status 0x00 ncmd 1
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Write req (0x12)
+      handle 0x0056 value  0x02 0x00
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Write req (0x12)
+      handle 0x0031 value  0x01 0x00
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> HCI Event: LE Meta Event (0x3e) plen 10
+    LE Connection Update Complete
+      status 0x00 handle 5
+      interval 48.75ms, latency 0.00ms, superv. timeout 6000.00ms
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Write req (0x12)
+      handle 0x0059 value  0x02 0x00
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Find By Type req (0x06)
+      start 0x0001, end 0xffff, uuid 0x2800
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x18 0x00 0xeb 0x26
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find By Type resp (0x07)
+      Found attr 0x0028, group end handle 0xffff
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Write req (0x12)
+      handle 0x003f value  0x02 0x00
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0029, end 0xffff
+      type-uuid 0x2803
+< ACL data: handle 5 flags 0x00 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0029, value 0x04 0x2a 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x19 0x00 0xeb 0x26 
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+< ACL data: handle 5 flags 0x00 dlen 12
+    ATT: Write req (0x12)
+      handle 0x0055 value  0x2d 0x2d 0x2d 0x2d 0x2d
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x002b, end 0xffff
+      type-uuid 0x2803
+< ACL data: handle 5 flags 0x00 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x002b, value 0x02 0x2c 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x1d 0x00 0xeb 0x26 
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+< ACL data: handle 5 flags 0x00 dlen 8
+    ATT: Write cmd (0x52)
+      handle 0x000c value  0xf4
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Write req (0x12)
+      handle 0x0034 value  0x01 0x00
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+> ACL data: handle 5 flags 0x02 dlen 13
+    ATT: Find By Type req (0x06)
+      start 0x0001, end 0xffff, uuid 0x2800
+      value 0x05 0x18
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Find By Type req (0x06) on handle 0x0001
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 13
+    ATT: Find By Type req (0x06)
+      start 0x0001, end 0xffff, uuid 0x2800
+      value 0x00 0x18
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find By Type resp (0x07)
+      Found attr 0x0014, group end handle 0x001c
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0015, end 0x001c
+      type-uuid 0x2803
+< ACL data: handle 5 flags 0x00 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 7
+        handle 0x0015, value 0x02 0x16 0x00 0x00 0x2a 
+        handle 0x0017, value 0x02 0x18 0x00 0x01 0x2a 
+        handle 0x0019, value 0x02 0x1a 0x00 0xa6 0x2a 
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Find By Type req (0x06)
+      start 0x0001, end 0xffff, uuid 0x2800
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x18 0x00 0xeb 0x26
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Find By Type resp (0x07)
+      Found attr 0x0028, group end handle 0xffff
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x0029, end 0xffff
+      type-uuid 0x2803
+< ACL data: handle 5 flags 0x00 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x0029, value 0x04 0x2a 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x19 0x00 0xeb 0x26 
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 11
+    ATT: Read By Type req (0x08)
+      start 0x002b, end 0xffff
+      type-uuid 0x2803
+< ACL data: handle 5 flags 0x00 dlen 27
+    ATT: Read By Type resp (0x09)
+      length: 21
+        handle 0x002b, value 0x02 0x2c 0x00 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x1d 0x00 0xeb 0x26 
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 27
+    ATT: Find By Type req (0x06)
+      start 0x002d, end 0xffff, uuid 0x2800
+      value 0x0f 0x2b 0x03 0xb2 0x4f 0x39 0xf8 0xb1 0xa8 0x49 0x12 0xb0 0x18 0x00 0xeb 0x26
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Error (0x01)
+      Error: Attribute not found (10)
+      Find By Type req (0x06) on handle 0x002d
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 7
+    ATT: Read req (0x0a)
+      handle 0x0016
+< ACL data: handle 5 flags 0x00 dlen 14
+    ATT: Read resp (0x0b)
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 7
+    ATT: Read req (0x0a)
+      handle 0x002c
+< ACL data: handle 5 flags 0x00 dlen 10
+    ATT: Read resp (0x0b)
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Handle notify (0x1b)
+      handle 0x0030
+      value 0x07 0x00 0x01 
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Write req (0x12)
+      handle 0x002e value  0x09 0x00
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Handle notify (0x1b)
+      handle 0x0030
+      value 0x02 0x00 0x02 
+< ACL data: handle 5 flags 0x00 dlen 9
+    ATT: Write req (0x12)
+      handle 0x0027 value  0x16 0x00
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+> ACL data: handle 5 flags 0x02 dlen 10
+    ATT: Handle notify (0x1b)
+      handle 0x0030
+      value 0x02 0x00 0x01 
+< ACL data: handle 5 flags 0x00 dlen 17
+    ATT: Write req (0x12)
+      handle 0x0025 value  0xe2 0x07 0x05 0x0b 0x14 0x1f 0x25 0x05 0x0e 0x01
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+> ACL data: handle 5 flags 0x02 dlen 16
+    L2CAP(d): cid 0x0005 len 12 [psm 0]
+< ACL data: handle 5 flags 0x00 dlen 10
+    L2CAP(d): cid 0x0005 len 6 [psm 0]
+< HCI Command: LE Connection Update (0x08|0x0013) plen 14
+> HCI Event: Command Status (0x0f) plen 4
+    LE Connection Update (0x08|0x0013) status 0x00 ncmd 1
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> HCI Event: LE Meta Event (0x3e) plen 10
+    LE Connection Update Complete
+      status 0x00 handle 5
+      interval 300.00ms, latency 5.00ms, superv. timeout 6000.00ms
+> ACL data: handle 5 flags 0x02 dlen 12
+    ATT: Handle indicate (0x1d)
+< ACL data: handle 5 flags 0x00 dlen 5
+    ATT: Handle CNF (0x1e)
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+< HCI Command: Read RSSI (0x05|0x0005) plen 2
+    handle 5
+> HCI Event: Command Complete (0x0e) plen 7
+    Read RSSI (0x05|0x0005) ncmd 1
+    status 0x00 handle 5 rssi -44
+< ACL data: handle 5 flags 0x00 dlen 7
+    ATT: Read req (0x0a)
+      handle 0x003e
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 25
+    ATT: Read resp (0x0b)
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Write cmd (0x52)
+      handle 0x002a value  0x08 0x32
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Write cmd (0x52)
+      handle 0x002a value  0x08 0x32
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Write cmd (0x52)
+      handle 0x002a value  0x08 0x32
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Write cmd (0x52)
+      handle 0x002a value  0x08 0x32
+< HCI Command: Read RSSI (0x05|0x0005) plen 2
+    handle 5
+> HCI Event: Command Complete (0x0e) plen 7
+    Read RSSI (0x05|0x0005) ncmd 1
+    status 0x00 handle 5 rssi -41
+< ACL data: handle 5 flags 0x00 dlen 15
+    ATT: Write req (0x12)
+      handle 0x0039 value  0x00 0x0a 0x01 0x4d 0x75 0x73 0x69 0x63
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Write cmd (0x52)
+      handle 0x002a value  0x08 0x32
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Write cmd (0x52)
+      handle 0x002a value  0x08 0x32
+< ACL data: handle 5 flags 0x00 dlen 27
+    ATT: Write req (0x12)
+      handle 0x0039 value  0x00 0x0a 0x01 0x57 0x68 0x6f 0x20 0x52 0x20 0x55 0x20 0x5b 0x77 0x77 0x77 0x2e 0x41 0x74 0x6f 0x5a
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Write cmd (0x52)
+      handle 0x002a value  0x08 0x32
+< ACL data: handle 5 flags 0x00 dlen 27
+    ATT: Write req (0x12)
+      handle 0x0039 value  0x00 0x0a 0x01 0x57 0x68 0x6f 0x20 0x52 0x20 0x55 0x20 0x5b 0x77 0x77 0x77 0x2e 0x41 0x74 0x6f 0x5a
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
+> ACL data: handle 5 flags 0x02 dlen 9
+    ATT: Write cmd (0x52)
+      handle 0x002a value  0x08 0x32
+< ACL data: handle 5 flags 0x00 dlen 27
+    ATT: Write req (0x12)
+      handle 0x0039 value  0x00 0x0a 0x01 0x57 0x68 0x6f 0x20 0x52 0x20 0x55 0x20 0x5b 0x77 0x77 0x77 0x2e 0x41 0x74 0x6f 0x5a
+> HCI Event: Number of Completed Packets (0x13) plen 5
+    handle 5 packets 1
+> ACL data: handle 5 flags 0x02 dlen 5
+    ATT: Write resp (0x13)
